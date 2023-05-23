@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jake! I am a recent graduate from Carleton University with a degre in Computer Mathematics!
+Hi, I'm Jake. I am a recent graduate from Carleton University with a degre in Computer Mathematics!
 
 I have experience through my university in languages such as C, C++, Java and C++ in a software engineering context, and am currently expanding my skills to front end/full stack by learning JavaScript with React and Node.js!
 
