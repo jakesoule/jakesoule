@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Jake. I am a recent graduate from Carleton University with a degreeh1>Greetings</h1>
-      <Hello name='Maya' age={26+10} />
-      <Hello name={name} age={age} />
-      <Footer /> in Computer Mathematics!
+Hi, I'm Jake. I am a recent graduate from Carleton University with a degree in Computer Mathematics!
 
 I have experience through my university in languages such as C, Python, Java and C++ in a software engineering context, and am currently expanding my skills to front end/full stack by learning JavaScript with React and Node.js!
 
