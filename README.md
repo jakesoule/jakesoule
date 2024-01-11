@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Jake. I am a recent graduate from Carleton University with a degree in Computer Mathematics!
+Hi, I'm Jake. I am a recent graduate from Carleton University with a degree in Computer Mathematics! I have also just re-enrolled, as a third-year standing student, in a Computer Science Bachelor's program at Carleton.
 
 I am a full stack engineer with experience in C, C++, Java, JS, HTML/CSS and Python!
 
